@@ -1,0 +1,9 @@
+{
+  "name": "mpMack",
+  "version": "${FBSTRING_PLUGIN_VERSION}",
+  "description": "Get mac from a PC",
+
+	"plugins": [
+    { "path": "npmpMack.dll", "public": true }
+  ]
+}
